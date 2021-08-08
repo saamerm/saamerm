@@ -18,7 +18,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <i>Follow me around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/saamer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.twitter.com/saamerm" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Twitter"></a>
+<a href="https://www.twitter.com/saamerm" target="_blank"><img src="https://img.shields.io/twitter/follow/saamerm" alt="Twitter"></a>
   
 </div>
 
