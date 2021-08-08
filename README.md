@@ -1,14 +1,10 @@
 <div align="center">
-<h2> <`Welcome/>!</h2>
+<h2> Welcome to my 2nd home!</h2>
 </div>
 
 <div align="center">
 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better
-<!---
- <a href="https://github.com/madhuv-sharma/issues/new"><b>here</b></a><br>
--->
-or <a href="mailto:saamer@thefirstprototype.com"><b>email</b></a> me
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better or <a href="mailto:saamer@thefirstprototype.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
