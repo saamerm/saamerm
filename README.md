@@ -4,7 +4,6 @@
 
 <div align="center">
 
-You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better
 <!---
  <a href="https://github.com/madhuv-sharma/issues/new"><b>here</b></a><br>
