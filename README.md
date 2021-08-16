@@ -4,9 +4,9 @@
 
 <div align="center">
 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better or <a href="mailto:saamer@thefirstprototype.com"><b>email</b></a> me
+Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better or <a href="mailto:saamer@thefirstprototype.com"><b>email</b></a> me
 
-<i>Happy Coding!</i> 😊
+<i>Happy Coding!</i>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saamerm&count_private=true" alt="Saamer's Language Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saamerm&count_private=true" alt="Saamer's Github Stats">
