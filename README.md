@@ -4,7 +4,7 @@
 
 <div align="center">
 
-Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better or <a href="mailto:saamer@thefirstprototype.com"><b>email</b></a> me. Don't judge me on my GitHub commit history, I do a lot more work on Azure DevOps and GitLab that doesn't show up on here. This is just the coding I mostly do for fun!
+Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better or <a href="mailto:saamer@thefirstprototype.com"><b>email</b></a> me. Don't judge me on my GitHub commit contribution history, I do a lot more work on Azure DevOps and GitLab that doesn't show up on here. This is just the coding I mostly do for fun!
   
 
 <i>Happy Coding!</i>
