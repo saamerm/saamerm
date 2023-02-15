@@ -8,10 +8,10 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
   
 
 <i>Happy Coding!</i>
-
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saamerm&count_private=true" alt="Saamer's Language Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saamerm&count_private=true" alt="Saamer's Github Stats">
-
+-->
 
 <br>
 <br>
@@ -20,10 +20,9 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 
 <a href="https://www.linkedin.com/in/saamer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.twitter.com/saamerm" target="_blank"><img src="https://img.shields.io/twitter/follow/saamerm" alt="Twitter"></a>
-<a href="https://www.instagram.com/saamerm" target="_blank"><img src="https://img.shields.io/badge/follow--000?style=social&logo=instagram" alt="Instagram"></a>  
 </div>
 
-Last Edited on: 08/08/2021
+Last Edited on: 02/15/2023
 
 <!--
 - 🔭 I’m currently working on ...
