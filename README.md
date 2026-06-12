@@ -6,7 +6,9 @@
 
 <h4 align="center">Since 2016 I have been averaging over 2 contributions a day, and I'm learning new technology all the time. Follow me if you want to be a part of my journey!</h4>
 📫 Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better or <a href="mailto:saamer@thefirstprototype.com"><b>email</b></a> me. </br>
-😄 I also do a lot of work on Azure DevOps and GitLab that doesn't show up on here. This is just the coding I mostly do for fun & learning!
+😄 I also do a lot of work on Azure DevOps and GitLab that doesn't show up on here. This is just the coding I mostly do for fun & learning! 
+🌎 Polyglot - I can speak, read & write over 6 languages. I have built projects in .NET(C#), NodeJs(JavaScript), React(TypeScript), SwiftUI(Swift), UIKit(ObjC), Kotlin(Android), Java, Flutter(Dart), and so many more!
+⚡ Machine Language Addict- I have more GitHub contributions than days in the year since 2019
   
 
 <!--
@@ -23,7 +25,7 @@
 <i>🔭 Check out what I'm building:</i></br>
 <a href="https://www.conferencecaptioning.com/" target="_blank"><img src="https://conferencecaptioning.com/images/logo-white.svg" alt="Conference Captioning" width="188"></a>: On-Device AI for Insanely Fast Transcription & Translation
 </br></br></br>
-💬 Last Edited on: 07/23/2025. 
+💬 Last Edited on: June 12, 2026. 
 </br>
 </div>
 <div align="center"><i>Happy Coding!</i></div>
