@@ -1,41 +1,159 @@
+# 🚀 Saamer Mansoor
+
 <div align="center">
-<h2> Welcome to my 2nd home!</h2>
-</div>
-
-<div>
-
-<h4 align="center">Since 2016 I have been averaging over 2 contributions a day, and I'm learning new technology all the time. Follow me if you want to be a part of my journey!</h4>
-📫 Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better or <a href="mailto:saamer@thefirstprototype.com"><b>email</b></a> me. </br>
-😄 I also do a lot of work on Azure DevOps and GitLab that doesn't show up on here. This is just the coding I mostly do for fun & learning! 
-🌎 Polyglot - I can speak, read & write over 6 languages. I have built projects in .NET(C#), NodeJs(JavaScript), React(TypeScript), SwiftUI(Swift), UIKit(ObjC), Kotlin(Android), Java, Flutter(Dart), and so many more!
-⚡ Machine Language Addict- I have more GitHub contributions than days in the year since 2019
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQGWcGkosa6MtQ/profile-displayphoto-crop_800_800/B56Z55Hg1XHAAI-/0/1780148473866?e=1784160000&v=beta&t=MCJmoKY1yvIWvMjGte1ozc7XVlSzUhYVikkf8VFOjvo" width="200" style="border-radius: 50%;" alt="Saamer Mansoor"/>
   
-
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saamerm&count_private=true" alt="Saamer's Language Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saamerm&count_private=true" alt="Saamer's Github Stats">
--->
-</br>
-<i>🌱 Follow me around the web:</i>
-<a href="https://www.linkedin.com/in/saamer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</br>
-<!-- <a href="https://www.twitter.com/saamerm" target="_blank"><img src="https://img.shields.io/twitter/follow/saamerm" alt="Twitter"></a> -->
-
-</br>
-<i>🔭 Check out what I'm building:</i></br>
-<a href="https://www.conferencecaptioning.com/" target="_blank"><img src="https://conferencecaptioning.com/images/logo-white.svg" alt="Conference Captioning" width="188"></a>: On-Device AI for Insanely Fast Transcription & Translation
-</br></br></br>
-💬 Last Edited on: June 12, 2026. 
-</br>
+  ### Founder · AI Engineer · Accessibility Innovator
+  
+  [![Website](https://img.shields.io/badge/ConferenceCaptioning-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://conferencecaptioning.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saamer)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saamerm)
+  [![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/confcap)
+  [![Email](https://img.shields.io/badge/Email-i%40saamer.me-FF007A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i@saamer.me)
+  
+  **Building AI that makes conversations accessible.**
 </div>
-<div align="center"><i>Happy Coding!</i></div>
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🎯 About Me
+
+I'm a **Fractional CTO**, **Enterprise Solution Architect**, and **AI Engineer** based in Detroit, MI. I specialize in building local-first, offline AI systems that power enterprise accessibility infrastructure. My mission is to make real-time communication accessible to everyone, everywhere.
+
+### 🧠 What I Do
+
+- **AI Engineering** – Building local-first, on-device generative AI systems with CoreML, Whisper, and edge-optimized models
+- **Startup Leadership** – Founder of [ConferenceCaptioning.com](https://conferencecaptioning.com) and [TheFirstPrototype.com](https://thefirstprototype.com)
+- **Accessibility Innovation** – Creating technology that breaks down communication barriers in real-time
+- **Product Development** – Shipping across iOS, iPadOS, macOS, Android, and cloud-native platforms
+- **Public Speaking** – Demonstrating live AI systems at global conferences and events
+
+---
+
+## 🛠️ Technical Expertise
+
+### Languages & Frameworks
+```
+Swift · SwiftUI · CoreML · Python · C# · .NET · TypeScript · React · Node.js · Express
+```
+
+### Platforms & Cloud
+```
+iOS · iPadOS · macOS · Android · Firebase · Azure · AWS · Embedded Systems
+```
+
+### AI & ML Specialties
+```
+Speech Recognition · Live Translation · Offline AI · Whisper · CoreML
+System Architecture · Streaming APIs · Accessibility Engineering
+```
+
+### Currently Deep In
+- Optimizing Whisper for sub-second local inference
+- Building multi-language translation pipelines
+- Architecting enterprise AV integration systems
+- Developing real-time captioning broadcast networks
+
+---
+
+## 🏢 Flagship Product
+
+### [ConferenceCaptioning.com](https://conferencecaptioning.com)
+
+Enterprise-grade live captioning and translation platform:
+
+- ⚡ **Sub-second latency** real-time captioning
+- 🌍 **25+ languages** live translation
+- 📱 **Native apps** for Mac, iPhone, iPad, Android
+- 🔒 **Offline AI** – complete privacy, no cloud dependency
+- 📡 **QR code viewing** for instant audience access
+- 🎯 **Presenter mode** with AV integration
+- 🏢 **Enterprise reliability** built for global conferences
+
+---
+
+## 📚 Featured Recognition
+
+<div align="center">
+
+| 🍎 [Apple Newsroom](https://apple.com/newsroom/2026/05/detroits-rising-developers-are-supported-by-the-apple-developer-academy/) | 🔷 [Microsoft DevBlogs](https://devblogs.microsoft.com/xamarin/android-in-app-reviews/) | 🏙️ [TechTown Detroit](https://techtowndetroit.org/team/saamer-mansoor/) |
+|:---:|:---:|:---:|
+| Featured among Detroit's rising developers | Published Android integration expert | Startup community advisor |
+
+</div>
+
+---
+
+## 🎤 Speaking & Events
+
+- **Apple Developer Academy** – Mentor and technical advisor
+- **Startup Accelerators** – Guest speaker and technical evaluator
+- **Accessibility Conferences** – Live demos and architectural deep-dives
+- **Venture Events** – Investor pitches and technical due diligence
+
+---
+
+## 📝 Selected Publications
+
+### Technical Blog Posts
+- **"Deploying Low-Latency Local Whisper Models to Edge Devices"** – CoreML optimization strategies
+- **"Real-time Buffer Wrangling in SwiftUI Multi-stream Contexts"** – AVFoundation deep-dive
+- **"Android In-App Reviews: A Production Guide"** – [Microsoft DevBlogs](https://devblogs.microsoft.com/xamarin/android-in-app-reviews/)
+
+### Categories
+`#Accessibility` `#Swift` `#AI` `#CoreML` `#Whisper` `#Entrepreneurship` `#StartupLessons` `#ConferenceTechnology` `#Engineering`
+
+---
+
+## 📊 Milestone Timeline
+
+| Year | Milestone |
+|------|-----------|
+| **2019** | Started building accessibility products |
+| **2020** | Created BeAware, built ConferenceCaptioning |
+| **2021** | Developed offline AI transcription, launched multilingual captioning |
+| **2022** | Accepted into startup accelerators, worked with Apple Developer Academy |
+| **2023** | Enterprise Solution Architect, global expansion of ConferenceCaptioning |
+| **2026** | 🌎 Scaling global accessibility infrastructure |
+
+---
+
+## 🛠️ Other Projects
+
+- **BeAware** – Situational awareness tools for Deaf and Hard of Hearing communities
+- **HealthScribe** – Secure local-first healthcare transcription platform
+- **Open Source Labs** – Experimental hackathon utilities and AI middleware
+- **Accessibility Tools** – Various prototypes and utilities for inclusive technology
+
+---
+
+## 🧪 Fun Facts
+
+- 🎮 **Konami Code** – Try it on my portfolio site (↑↑↓↓←→←→ B A)
+- ⌨️ **Terminal** – I have an interactive terminal on my portfolio
+- 🎯 **60+ Products** – Shipped dozens of production applications
+- 🌐 **Global Impact** – Used at conferences worldwide
+
+---
+
+## 📬 Get In Touch
+
+```
+📧 i@saamer.me
+🌐 ConferenceCaptioning.com
+📅 calendly.com/confcap
+🐙 github.com/saamerm
+🔗 linkedin.com/in/saamer
+```
+
+---
+
+<div align="center">
+
+**"Accessibility isn't an afterthought—it's the core mission."**
+
+[![Website](https://img.shields.io/badge/🌐_ConferenceCaptioning-00F0FF?style=for-the-badge)](https://conferencecaptioning.com)
+[![Portfolio](https://img.shields.io/badge/💻_Portfolio-FF007A?style=for-the-badge)](https://saamer.me)
+[![TheFirstPrototype](https://img.shields.io/badge/🚀_TheFirstPrototype-8B5CF6?style=for-the-badge)](https://thefirstprototype.com)
+
+</div>
